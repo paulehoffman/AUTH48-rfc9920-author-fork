@@ -1,8 +1,8 @@
-# AUTH48 for RFC-to-be XXXX <draft-XX> (in markdown)
+# AUTH48 for RFC-to-be 9920 <draft-XX> (in markdown)
 
-This repository is for managing document updates for RFC XXXX during AUTH48. This is part of the [pilot GitHub-based process for AUTH48](https://www.rfc-editor.org/rpc/wiki/doku.php?id=rpc_github_roadmap), and it emulates the [current AUTH48 procedure](https://www.rfc-editor.org/pubprocess/auth48/). 
+This repository is for managing document updates for RFC 9920 during AUTH48. This is part of the [pilot GitHub-based process for AUTH48](https://www.rfc-editor.org/rpc/wiki/doku.php?id=rpc_github_roadmap), and it emulates the [current AUTH48 procedure](https://www.rfc-editor.org/pubprocess/auth48/). 
 
-Please see the [License](https://github.com/rfc-editor/rfcXXXX-AUTH48/blob/main/LICENSE.md). The [IETF Note Well](https://github.com/rfc-editor/rfcXXXX-AUTH48/blob/main/note-well.md) applies.
+Please see the [License](https://github.com/rfc-editor/AUTH48-rfc9920/blob/Approved/LICENSE.md). The [IETF Note Well](https://github.com/rfc-editor/AUTH48-rfc9920/blob/Approved/note-well.md) applies.
 
 GitHub features that will be used:
 * Issue tracking
@@ -14,7 +14,7 @@ Authors, AD, WG chairs, and document shepherd, please ensure that your GitHub no
 This document is being edited in kramdown-rfc markdown.  Once the content is stable, the markdown will be converted to RFCXML and formatted as an RFC.  Your final approval means you approve both the content and format.
 
 ## Pull Requests and Issue Tracking
-The initial version of rfcXXXX.md is a copy of the Internet-Draft as it was approved for publication. A PR has been created that contains all the edits made by the RFC Production Center (RPC). This emulates the starting state of the [current AUTH48 procedure](https://www.rfc-editor.org/pubprocess/auth48/). 
+The initial version of rfc9920.md is a copy of the Internet-Draft as it was approved for publication. A PR has been created that contains all the edits made by the RFC Production Center (RPC). This emulates the starting state of the [current AUTH48 procedure](https://www.rfc-editor.org/pubprocess/auth48/). 
 
 The RPC has proposed edits in the RPC-edits branch.  Please work within this branch as much as possible.  In particular, use the [comment and suggestion](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request)  features to comment or suggest updates.  
 
@@ -32,10 +32,10 @@ Once the content of the .md file is stable in GitHub, the RPC will send an email
 
 Once approval of the content is received from all authors, the RPC will download the .md file from GitHub and create an XML file. The following files will be provided for your review at that time and approval of the format will be requested:
 
-* [https://www.rfc-editor.org/authors/rfcXXXX.html](https://www.rfc-editor.org/authors/rfcXXXX.html)
-* [https://www.rfc-editor.org/authors/rfcXXXX.pdf](https://www.rfc-editor.org/authors/rfcXXXX.pdf)
-* [https://www.rfc-editor.org/authors/rfcXXXX.txt](https://www.rfc-editor.org/authors/rfcXXXX.txt)
-* [https://www.rfc-editor.org/authors/rfcXXXX.xml](https://www.rfc-editor.org/authors/rfcXXXX.xml)
+* [https://www.rfc-editor.org/authors/rfc9920.html](https://www.rfc-editor.org/authors/rfc9920.html)
+* [https://www.rfc-editor.org/authors/rfc9920.pdf](https://www.rfc-editor.org/authors/rfc9920.pdf)
+* [https://www.rfc-editor.org/authors/rfc9920.txt](https://www.rfc-editor.org/authors/rfc9920.txt)
+* [https://www.rfc-editor.org/authors/rfc9920.xml](https://www.rfc-editor.org/authors/rfc9920.xml)
 
 Note: Once the XML file is generated, any further changes will be made in the XML file.  The markdown file will not be updated.
    
@@ -45,7 +45,7 @@ To create your own output files, use the [IETF Author Tools webservice](https://
 
 **ADs** - To approve any changes that are beyond editorial, **please reply to the AUTH48 email** (using **REPLY ALL**) so everyone is aware of the approval.  
 
-The details of the AUTH48 status of the document are here: [https://www.rfc-editor.org/auth48/rfcXXXX](https://www.rfc-editor.org/auth48/rfcXXXX)
+The details of the AUTH48 status of the document are here: [https://www.rfc-editor.org/auth48/rfc9920](https://www.rfc-editor.org/auth48/rfc9920)
 
 ## About This Repo
 Note that this repo is available only during AUTH48. This repo will be archived after the RFC publication announcement is sent. 
